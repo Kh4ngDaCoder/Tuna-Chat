@@ -18,12 +18,9 @@ py Server.py {Your Port}
 4. If you see the text "Running..." then you're good to go!
 ### -====Client====-
 1. Step 1: run a virtual LAN network like Radmin or Hamachi, and make sure you're in the same party with the one who hosts the server!
-2. Step 2: Execute the command below:
-```
-py Client.py {Server Ip} {Port}
-```
-3. Step 3: Replace the {Server Ip} with Server's VLAN address (You can see that on the program)
-4. Step 4: Replace the {Port} with the server's port that I mentioned at the top!
+2. Step 2: Run The .exe file in the dist folder (Outside is the open-sourced one)
+3. Step 3: Put in the server's VLAN address (you can see that on the program).
+4. Step 4: Put in the server's port that I mentioned at the top!
 5. Step 5: If you see "Connect Successful!, Welcome To TunaChat!" on the screen, then you're ready to chat now! Choose a cool nickname and start rolling!!
 
 ## ======================
